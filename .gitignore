@@ -22,3 +22,9 @@ __pycache__/
 cpp_build
 
 epi_judge_java/java_build/
+
+# vscode
+.vscode
+
+# macOS
+**/.DS_Store
